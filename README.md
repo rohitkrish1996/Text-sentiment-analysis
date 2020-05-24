@@ -5,7 +5,7 @@ A tweet is considered hate tweet if a sexist or a racist sentiment is associated
 
 # Analysis and Result
 
-Developed wrod clouds to identify the good and bad tweeets.
-Generated histograns to determined the frequency of importnant words which determine the sentiment
+Developed word clouds to identify the good and bad tweeets.
+Generated histograns to determine the frequency of important words which are indicative of the sentiment
 
 Built classification models like Logistic Regression using TFIDF  VECTORIZER (bigram, n-grams) to predict hate speeches with negative sentiments.
