@@ -1,6 +1,6 @@
 # Task
 
-To detect and classify gate tweets. 
+To detect and classify hate tweets. 
 A tweet is considered hate tweet if a sexist or a racist sentiment is associated with it
 
 # Result
